@@ -8,13 +8,12 @@
 |----|----|----|----|
 |![1](https://raw.githubusercontent.com/zzc1231/ukulele/master/Em.png)|![2](https://raw.githubusercontent.com/zzc1231/ukulele/master/C.png) |![3](https://raw.githubusercontent.com/zzc1231/ukulele/master/G.png) |![4](https://raw.githubusercontent.com/zzc1231/ukulele/master/D.png) |
 ##节奏
-+ 前奏  副歌
++ 前奏
 
-![5](前奏.png)
+    ![5](前奏.png)
++ 扫弦
 
-+ 主歌
-
- ![6](节奏.png)
+    ![6](节奏.png)
 
 
 
